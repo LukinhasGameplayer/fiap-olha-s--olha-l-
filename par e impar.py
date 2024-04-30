@@ -12,7 +12,6 @@ while total <= num2:
         impar += 1
     total += 1
 print(f'São {par} pares e {impar} impares' )
-
-
+xorume
 
 
